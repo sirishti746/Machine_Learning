@@ -1,5 +1,5 @@
 def main():
-    print("Hello from machine-learning!")
+    print("Its running!")
 
 
 if __name__ == "__main__":
